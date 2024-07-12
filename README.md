@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oremei Akande
 =====================================================================================================================================
 
-Backend Engineer || Aspiring Blockchain Developer
+Backend Engineer || Blockchain Developer(Solidity)
 -------------------------------------------------
 
 I am a passionate software developer with three years of experience in the IT industry in software development, design, maintenance, and documentation of enterprise applications in NodeJs, Typescript, NestJs, Javascript, Ruby on Rails, and Java(Springboot). Recognized for picking up tools necessary to accomplish a given task. A dedicated and proactive developer who has built competency in effective communication, emotional intelligence, and time management.
